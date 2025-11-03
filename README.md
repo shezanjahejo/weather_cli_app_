@@ -56,5 +56,6 @@ This project combines multiple Python concepts learned during the course, includ
 
 1. Clone or download this project folder:  
    ```bash
-   git clone https://github.com/YourGitHubUsername/Weather_CLI_App_SheZan.git
+   git clone https://github.com/shezanjahejo/weather_cli_app_.git
    cd Weather_CLI_App_SheZan
+
