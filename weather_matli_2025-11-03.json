@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 68.6557,
+        "lat": 25.0431
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 307.27,
+        "feels_like": 304.99,
+        "temp_min": 307.27,
+        "temp_max": 307.27,
+        "pressure": 1010,
+        "humidity": 17,
+        "sea_level": 1010,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.83,
+        "deg": 251,
+        "gust": 5.1
+    },
+    "clouds": {
+        "all": 4
+    },
+    "dt": 1762149401,
+    "sys": {
+        "country": "PK",
+        "sunrise": 1762133637,
+        "sunset": 1762173830
+    },
+    "timezone": 18000,
+    "id": 1170667,
+    "name": "Matli",
+    "cod": 200
+}
